@@ -8,4 +8,4 @@ cd Update-bomber
 
 ls
 
-python2 DH.py
+python run.py
