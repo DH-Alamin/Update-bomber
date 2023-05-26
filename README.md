@@ -11,4 +11,4 @@ cd Update-bomber
 
 ls
 
-python DH.py
+python run.py
