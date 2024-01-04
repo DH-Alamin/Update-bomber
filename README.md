@@ -10,5 +10,5 @@ ls
 cd Update-bomber
 
 ls
-
-python run.py
+#32 bit user run : python 32.py
+#64 bit user run : python run.py
