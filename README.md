@@ -11,12 +11,10 @@ cd Update-bomber
 
 ls
 
-#32 bit user run : python 32.py
-
-#64 bit user run : python run.py
+python V8.py
 
 #tools username & password
 
-username : DH ALAMIN
+username : DH Alamin Hasan
 
-password : DARK-HUNTER
+password : Dark-Hunter
